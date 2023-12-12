@@ -1,0 +1,3 @@
+﻿  9.3.cpp
+C:\Users\TONYA\source\repos\ap_9.3\ap_9.3\9.3.cpp(118,15): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+  ap_9.3.vcxproj -> C:\Users\TONYA\source\repos\ap_9.3\x64\Debug\ap_9.3.exe

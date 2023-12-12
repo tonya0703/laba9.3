@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  UnitTest9.3.cpp
+C:\Users\TONYA\source\repos\ap_9.3\ap_9.3\9.3.cpp(118,15): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+     Creating library C:\Users\TONYA\source\repos\ap_9.3\x64\Debug\UnitTest9.3.lib and object C:\Users\TONYA\source\repos\ap_9.3\x64\Debug\UnitTest9.3.exp
+  UnitTest9.3.vcxproj -> C:\Users\TONYA\source\repos\ap_9.3\x64\Debug\UnitTest9.3.dll
